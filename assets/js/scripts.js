@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         "CSS",
         "HTML",
         "200",
-        "LARAVEL",
+        "NO MOBILE APP !!!",
         "CODING",
         "PROGRAMMER",
         "WEBSITE",
